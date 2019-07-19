@@ -25,14 +25,3 @@ Command | Description
 
 All in all it's just about generating PGN data which contains self-played games by the chess engine.
 
-## GUI
-You can also run the engine in GUI. To set it up, just point it to `uci.bat` throught GUI environment.
-
-![alt text](https://github.com/andynik/deep-move/blob/master/images/Arena.png 'Running the engine in Arena')
-
-
-To find more about the work check out my thesis [over here](https://drive.google.com/file/d/116uMDNDGFkpX7DirNJyG5QGh-QthFG_E/view?usp=sharing)<sup>ua</sup>.
-
-
----
-<a name="myfootnote1"><sup>1</sup></a> Was forked from [@Zeta36](https://github.com/Zeta36)'s [project](https://github.com/Zeta36/chess-alpha-zero).
